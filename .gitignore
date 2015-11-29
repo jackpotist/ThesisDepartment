@@ -1,3 +1,4 @@
-Content/StarterContent/*
-Saved/Autosaves/*
-Saved/Backup/*
+Content/
+Content/StarterContent/
+Saved/Autosaves/
+Saved/Backup/
